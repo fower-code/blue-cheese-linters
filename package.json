@@ -9,6 +9,10 @@
     "email": "iosdsbb@gmail.com",
     "url": "https://github.com/fower-code"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fower-code/blue-cheese-linters.git"
+  },
   "bugs": {
     "url": "https://github.com/fower-code/blue-cheese-linters/issues"
   },
