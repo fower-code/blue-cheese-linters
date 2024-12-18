@@ -1,0 +1,25 @@
+{
+  "name": "@blue-cheese/linters",
+  "description": "Configuration of linters for BlueCheese library",
+  "homepage": "",
+  "license": "MIT",
+  "version": "0.0.1",
+  "author": {
+    "name": "fower-code",
+    "email": "iosdsbb@gmail.com",
+    "url": "https://github.com/fower-code"
+  },
+  "bugs": {
+    "url": "https://github.com/fower-code/@blue-cheese/linters/issues"
+  },
+  "keywords": [
+    "BlueCheese",
+    "Configuration",
+    "Linters"
+  ],
+  "type": "module",
+  "packageManager": "yarn@4.5.3",
+  "scripts": {
+
+  }
+}
