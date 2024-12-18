@@ -1,7 +1,7 @@
 {
   "name": "@blue-cheese/linters",
   "description": "Configuration of linters for BlueCheese library",
-  "homepage": "",
+  "homepage": "https://github.com/fower-code/blue-cheese-linters/#readme",
   "license": "MIT",
   "version": "0.0.1",
   "author": {
@@ -10,7 +10,7 @@
     "url": "https://github.com/fower-code"
   },
   "bugs": {
-    "url": "https://github.com/fower-code/@blue-cheese/linters/issues"
+    "url": "https://github.com/fower-code/blue-cheese-linters/issues"
   },
   "keywords": [
     "BlueCheese",
