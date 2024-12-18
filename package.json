@@ -1,16 +1,16 @@
 {
   "name": "@blue-cheese/linters",
   "description": "Configuration of linters for BlueCheese library",
-  "homepage": "",
+  "homepage": "https://github.com/fower-code/blue-cheese-linters/#readme",
   "license": "MIT",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "author": {
     "name": "fower-code",
     "email": "iosdsbb@gmail.com",
     "url": "https://github.com/fower-code"
   },
   "bugs": {
-    "url": "https://github.com/fower-code/@blue-cheese/linters/issues"
+    "url": "https://github.com/fower-code/blue-cheese-linters/issues"
   },
   "keywords": [
     "BlueCheese",
@@ -19,7 +19,12 @@
   ],
   "type": "module",
   "packageManager": "yarn@4.5.3",
-  "scripts": {
-
+  "devDependencies": {
+    "@types/node": "^22.10.2",
+    "@typescript-eslint/eslint-plugin": "^8.18.1",
+    "@typescript-eslint/parser": "^8.18.1",
+    "eslint": "^9.17.0",
+    "eslint-plugin-jsdoc": "^50.6.1",
+    "typescript": "^5.7.2"
   }
 }
