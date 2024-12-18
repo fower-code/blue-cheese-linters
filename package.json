@@ -19,7 +19,8 @@
   ],
   "type": "module",
   "packageManager": "yarn@4.5.3",
-  "scripts": {
-
+  "devDependencies": {
+    "eslint": "^9.17.0",
+    "eslint-plugin-jsdoc": "^50.6.1"
   }
 }
