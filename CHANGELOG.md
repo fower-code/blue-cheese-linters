@@ -13,7 +13,7 @@ Changelog
 
 #### :rocket: New Feature
 
-* fix
+* fix 'jsdoc/no-undefined-types'
 
 ## v0.1.0 (2024-12-19)
 
