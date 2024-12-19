@@ -3,7 +3,7 @@
   "description": "Configuration of linters for BlueCheese library",
   "homepage": "https://github.com/fower-code/blue-cheese-linters/#readme",
   "license": "MIT",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "author": {
     "name": "fower-code",
     "email": "iosdsbb@gmail.com",
