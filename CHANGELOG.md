@@ -9,7 +9,13 @@ Changelog
 > - :house:      [Internal]
 > - :nail_care:  [Polish]
 
-## v1.0.0 (2023-12-19)
+## v0.1.1 (2024-12-19)
+
+#### :rocket: New Feature
+
+* fix 'jsdoc/no-undefined-types'
+
+## v0.1.0 (2024-12-19)
 
 #### :rocket: New Feature
 
